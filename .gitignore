@@ -1,0 +1,44 @@
+# ==============================
+# Môi trường ảo Python
+# ==============================
+venv/
+env/
+ENV/
+.venv/
+
+# ==============================
+# Byte-compiled / cache
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==============================
+# Jupyter Notebook Checkpoints
+# ==============================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ==============================
+# IDEs & Trình soạn thảo
+# ==============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==============================
+# Hệ điều hành & file tạm
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# ==============================
+# Dữ liệu dung lượng lớn (Tùy chọn: bỏ comment nếu không muốn push dữ liệu raw)
+# ==============================
+# data/raw/*.csv
+
